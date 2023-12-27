@@ -11,7 +11,7 @@ Professor John Stupak
 1.   Navigate to [https://colab.research.google.com](https://colab.research.google.com)
 2.   Click on "File"->"Open notebook"
 3.   Click on "GitHub" on the top bar
-4.   In the search bar paste [https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks](https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks)
+4.   In the search bar, paste [https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks](https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks)
 5.   Click on the notebook you wish to open.
 
 **Open notebooks in Binder**:
