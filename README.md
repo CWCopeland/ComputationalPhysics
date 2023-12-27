@@ -1,19 +1,19 @@
-**Supporting code for PHYS 308 (Scientific Computing I) at Purdue University Northwest**
+**Supporting code for PHYS 2222 (Computational Physics) at the University of Oklahoma**
 
-Professor James Dolen
+Professor John Stupak
 
 **Open Notebooks in Google Colab**
-
-1.   Navigate to [https://github.com/jdolen](https://github.com/jdolen)
-2.   Click on "PurdueNorthwest_PHYS308_ScientificComputing1"
+<!--
+1.   Navigate to [https://github.com/jstupak](https://github.com/jstupak)
+2.   Click on "ComputationalPhysics"
 3.   Click on "Notebooks". Copy this link "[https://github.com/jdolen/PurdueNorthwest_PHYS308_ScientificComputing1/tree/master/Notebooks](https://github.com/jdolen/PurdueNorthwest_PHYS308_ScientificComputing1/tree/master/Notebooks)"
-4. Seperately navigate to [https://colab.research.google.com](https://colab.research.google.com)
-5.   Click on "File"->"Open notebook"
-6.   Click on "GitHub" on the top bar
-7.   In the search bar paste the GitHub link from above
-8.   Click on the notebook you wish to open.
+-->
+1.   Navigate to [https://colab.research.google.com](https://colab.research.google.com)
+2.   Click on "File"->"Open notebook"
+3.   Click on "GitHub" on the top bar
+4.   In the search bar paste [https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks](https://github.com/jstupak/ComputationalPhysics/tree/master/Notebooks)
+5.   Click on the notebook you wish to open.
 
 **Open notebooks in Binder**:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdolen/PurdueNorthwest_PHYS308_ScientificComputing1/master)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jstupak/ComputationalPhysics/master)
