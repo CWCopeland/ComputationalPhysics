@@ -1,7 +1,8 @@
 **Supporting code for PHYS 2222 (Computational Physics) at the University of Oklahoma**
 
 Professor John Stupak
-Many thanks to Jim Dolen (Purdue Northwest) for source material!
+
+Many thanks to James Dolen (Purdue Northwest) for original source material!
 
 **Open Notebooks in Google Colab**
 1.   Navigate to [https://colab.research.google.com](https://colab.research.google.com)
