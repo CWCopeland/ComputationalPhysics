@@ -3,4 +3,5 @@
 .jupyter
 raw.githubusercontent.com
 github.com
+updateSubmodule.sh
 *~
